@@ -1,0 +1,21 @@
+span[name='imageSpan'] {
+    cursor: pointer;
+}
+main {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+.menu ul li {
+    list-style-type: decimal;
+}
+.content {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: silver;
+}
+p#label {
+    margin-bottom: 0;
+    color: darkblue;
+}
